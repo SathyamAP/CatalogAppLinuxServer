@@ -1,4 +1,4 @@
-Book Catlog is a web app for organising Books. Users can view a list of categories of books and books under each category.
+Book Catlog is a web app for organising Books. Users can view a list of categories of books and books under each category. Users an log-in using their Google authentication. Logged-in users can add, edit and delete book details.
 
 * Server set up:
 	- Install necessary software with the following commands:

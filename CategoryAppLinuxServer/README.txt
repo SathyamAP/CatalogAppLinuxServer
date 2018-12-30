@@ -1,17 +1,14 @@
-Book Catlog is a web app for organising Books. Users can view a list of categories of books and books under each category. Users an log-in using their Google authentication. Logged-in users can add, edit and delete book details.
+Book Catlog is a web app for organising Books. Users can view a list of categories of books and books under each category. Users can log-in using their Google authentication. Logged-in users can add, edit and delete book details.
 
 * Server set up:
 	- Install necessary software with the following commands:
 		apt-get -qqy install python python-pip
-    
 		sudo pip2 install --upgrade pip
-    
 		sudo pip2 install flask packaging oauth2client redis passlib flask-httpauth
-    
 		sudo pip2 install sqlalchemy flask-sqlalchemy psycopg2-binary bleach requests
 		sudo pip install --upgrade oauth2client
 		sudo apt-get install sqlite3 libsqlite3-dev
-		sudo pip install virtualenv
+		
 	- Git clone the CatalogApp  with command
 		$  git clone https://github.com/SathyamAP/CatalogApp.git
 	- Set up data

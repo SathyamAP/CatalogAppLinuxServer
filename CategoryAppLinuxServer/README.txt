@@ -27,3 +27,6 @@ Book Catlog is a web app for organising Books. Users can view a list of categori
 
 
 
+* Resources:
+	- https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps#step-four-%E2%80%93-configure-and-enable-a-new-virtual-host
+	- http://stackoverflow.com - a good place to go when you run into issues while developing and deploying applications 
